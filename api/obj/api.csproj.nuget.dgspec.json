@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Training\\ReadyTech Developer Technical Test\\brew-coffee\\api\\api.csproj": {}
+    "d:\\Training\\ReadyTech Developer Technical Test\\brew-coffee\\api\\api.csproj": {}
   },
   "projects": {
-    "D:\\Training\\ReadyTech Developer Technical Test\\brew-coffee\\api\\api.csproj": {
+    "d:\\Training\\ReadyTech Developer Technical Test\\brew-coffee\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\ReadyTech Developer Technical Test\\brew-coffee\\api\\api.csproj",
+        "projectUniqueName": "d:\\Training\\ReadyTech Developer Technical Test\\brew-coffee\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "D:\\Training\\ReadyTech Developer Technical Test\\brew-coffee\\api\\api.csproj",
+        "projectPath": "d:\\Training\\ReadyTech Developer Technical Test\\brew-coffee\\api\\api.csproj",
         "packagesPath": "C:\\Users\\QWER\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\ReadyTech Developer Technical Test\\brew-coffee\\api\\obj\\",
+        "outputPath": "d:\\Training\\ReadyTech Developer Technical Test\\brew-coffee\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

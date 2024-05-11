@@ -420,3 +420,4 @@ D:\Training\ReadyTech Developer Technical Test\brew-coffee\api\bin\Debug\net8.0\
 D:\Training\ReadyTech Developer Technical Test\brew-coffee\api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Testing.dll
 D:\Training\ReadyTech Developer Technical Test\brew-coffee\api\bin\Debug\net8.0\Microsoft.AspNetCore.TestHost.dll
 D:\Training\ReadyTech Developer Technical Test\brew-coffee\api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Training\ReadyTech Developer Technical Test\brew-coffee\api\obj\Debug\net8.0\api.sourcelink.json
