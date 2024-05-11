@@ -76,7 +76,7 @@ namespace api.Tests
                 var result = await controller.CoffeeMachine() as ObjectResult;
 
                 // Assert on the fifth call
-                if (i == 5)
+                if (controller.GetRequests() == 5)
                 {
                     // Assert
                     if (result != null)

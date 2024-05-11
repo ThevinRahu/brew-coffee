@@ -70,5 +70,9 @@ namespace CoffeeMachineAPI.Controllers
                 }
             }
         }
+
+        public int GetRequests(){
+            return requests;
+        }
     }
 }
