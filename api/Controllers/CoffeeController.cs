@@ -10,7 +10,7 @@ namespace CoffeeMachineAPI.Controllers
     [Route("[controller]")]
     public class CoffeeController : ControllerBase
     {
-        private int requests = 0;
+        private static int requests = 0;
 
         //brew-coffee api controller function
         [HttpGet("/brew-coffee")]

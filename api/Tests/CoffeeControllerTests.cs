@@ -20,6 +20,7 @@ namespace api.Tests
 
             // Act
             var result = await controller.CoffeeMachine() as OkObjectResult;
+            var prepared = DateTime.Now.ToString("yyyy-MM-ddTHH:mm:sszzz");
 
             //using http client to call api and get response
             using (HttpClient client = new HttpClient())
@@ -46,7 +47,7 @@ namespace api.Tests
                 var response = new
                 {
                     message = tempC > 30.00 ? "Your refreshing iced coffee is ready" : "Your piping hot coffee is ready",
-                    prepared = DateTime.Now.ToString("yyyy-MM-ddTHH:mm:sszzz"),
+                    prepared = prepared,
                 };
 
                 if (DateTime.Today.Month != 4 && DateTime.Today.Day != 1)
